@@ -1,0 +1,43 @@
+
+.square{
+    position: absolute;
+width: 1441px;
+height: 81px;
+left: 0px;
+top: 56px;
+background: #065CC0;
+border-radius: 0px 100px 100px 0px;
+  }
+.qoute{
+    position: absolute;
+    width: 339px;
+    height: 71px;
+    left: 1457px;
+    top: 66px;
+    
+
+background: #065CC0;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 69px;
+}
+.getaqoute{position: absolute;
+    width: 247px;
+    height: 62px;
+    left: 60px;
+    top: -26px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 61px;
+/* identical to box height */
+color: #FFFFFF;}
+.techradixlogo{
+    position: absolute;
+    top: 7px;
+    left: 194px;
+    height: 42px;
+    width: 278px;
+    
+}
